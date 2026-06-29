@@ -71,9 +71,6 @@ Open your browser:
 
 http://127.0.0.1:5000
 
-screenshot:
-![alt text](home-page.png.png)
-
 Future features:
 
 Weather icons
